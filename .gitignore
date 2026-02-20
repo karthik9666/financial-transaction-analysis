@@ -1,0 +1,14 @@
+# Ignore raw dataset folder
+Data/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore CSV files (optional but safer)
+*.csv
+
+# Ignore JSON files (optional if large)
+*.json
